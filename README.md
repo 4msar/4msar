@@ -5,10 +5,10 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
--  **Working :** Web App Development :cloud:
--  **Learning :** Full-Stack :zap: | Open-Source :fire: 
+-  **Working :** Software Development :cloud: | Full-Stack :zap: | Open-Source :fire: 
+-  **Learning :** Python :snake: 
 -  **Hobbies :** Books :books: | Traveling :ocean:
--  **Ask me about :** Anything!, I'm happy to help :v:
+-  **Ask me about :** Anything!, I'll happy to help :v:
 -  **Fun fact :** Writing... :sweat_smile:
 -  **Pronouns :** He/Him/His :innocent:
 
