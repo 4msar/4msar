@@ -1,16 +1,21 @@
-### Hi there 👋
+## Saiful Alam 👨‍💻
+[![Twitter Badge](https://img.shields.io/badge/-4msar-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/4msar)](https://twitter.com/4msar) 
+[![Linkedin Badge](https://img.shields.io/badge/-4msar-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/4msar/)](https://www.linkedin.com/in/4msar/)
+[![Website Badge](https://img.shields.io/badge/-Saiful_Alam-blue?style=for-the-badge&logo=appveyor&logoColor=white&link=https://msar.me/)](https://msar.me/)
 
-<!--
-**4msar/4msar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
+-  **Working :** Web App Development :cloud:
+-  **Learning :** Full-Stack :zap: | Open-Source :fire: 
+-  **Hobbies :** Books :books: | Traveling :ocean:
+-  **Ask me about :** Anything!, I'm happy to help :v:
+-  **Fun fact :** Writing... :sweat_smile:
+-  **Pronouns :** He/Him/His :innocent:
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![github stats](https://github-readme-stats.vercel.app/api?username=4msar&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=4msar) 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
