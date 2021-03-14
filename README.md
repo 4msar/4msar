@@ -6,7 +6,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 -  **Working :** Software Development :cloud: | Full-Stack :zap: | Open-Source :fire: 
--  **Learning :** Python :snake: 
+-  **Learning :** NodeJS :beginner: 
 -  **Hobbies :** Books :books: | Traveling :ocean:
 -  **Ask me about :** Anything!, I'll happy to help :v:
 -  **Fun fact :** Writing... :sweat_smile:
