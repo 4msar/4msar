@@ -13,9 +13,15 @@
 -  **Pronouns :** He/Him/His :innocent:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=4msar&show_icons=true" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/github/followers/4msar?style=social"/>
+<img src="https://img.shields.io/github/stars/4msar?style=social"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=4msar" />
+</p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=4msar&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=4msar) 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img src="https://camo.githubusercontent.com/c8603029e1d7baade74d71c1823bdcdbaa61f08c2bf062a483e02e0f4ace034c/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966" data-canonical-src="https://i.giphy.com/RThN0hOS2GO4M.gif" style="max-width:100%;">
