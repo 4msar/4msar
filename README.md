@@ -5,6 +5,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
+
+<b>Software Engineer, Technology Enthusiast and Open Source Contributor.</b>
+
 -  **Working :** Software Development :cloud: | Full-Stack :zap: | Open-Source :fire: 
 -  **Learning :** NodeJS :beginner: 
 -  **Hobbies :** Books :books: | Traveling :ocean:
@@ -13,20 +16,17 @@
 -  **Pronouns :** He/Him/His :innocent:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4msar&show_icons=true&locale=en&layout=compact" alt="4msar" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4msar&show_icons=true" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/4msar?style=social"/>
-  <img src="https://img.shields.io/github/stars/4msar?style=social"/>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=4msar" />
-</p>
 
+<div style="display: flex; align-items: center; justify-content: center; text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4msar&show_icons=true&locale=en&layout=compact" alt="4msar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=4msar&show_icons=true" />
+  <!-- <img src="https://camo.githubusercontent.com/c8603029e1d7baade74d71c1823bdcdbaa61f08c2bf062a483e02e0f4ace034c/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966" data-canonical-src="https://i.giphy.com/RThN0hOS2GO4M.gif" style="max-width:100%;">
+</div> -->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
-<img src="https://camo.githubusercontent.com/c8603029e1d7baade74d71c1823bdcdbaa61f08c2bf062a483e02e0f4ace034c/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966" data-canonical-src="https://i.giphy.com/RThN0hOS2GO4M.gif" style="max-width:100%;">
+  You can buy me a coffee to support my contribution.<br/>
+  <a href="//www.buymeacoffee.com/msar" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px">
+  </a>
 </p>
