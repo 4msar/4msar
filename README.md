@@ -28,8 +28,9 @@
 <div style="display: flex; align-items: center; justify-content: center; text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4msar&show_icons=true&locale=en&layout=compact" alt="4msar" />
   <img src="https://github-readme-stats.vercel.app/api?username=4msar&show_icons=true" />
-  <!-- <img src="https://camo.githubusercontent.com/c8603029e1d7baade74d71c1823bdcdbaa61f08c2bf062a483e02e0f4ace034c/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966" data-canonical-src="https://i.giphy.com/RThN0hOS2GO4M.gif" style="max-width:100%;">
-</div> -->
+  <a href="https://app.daily.dev/4msar"><img src="https://api.daily.dev/devcards/v2/1keky7q0Eb4OSngB6T3b1.png?type=wide&r=iq6" width="652" alt="Saiful Alam's Dev Card"/></a>
+</div>
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
