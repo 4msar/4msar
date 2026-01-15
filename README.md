@@ -26,9 +26,8 @@
 -----------------------------------------------------------------------------------
 
 <div style="display: flex; align-items: center; justify-content: center; text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4msar&show_icons=true&locale=en&layout=compact" alt="4msar" />
-  <img src="https://github-readme-stats.vercel.app/api?username=4msar&show_icons=true" />
-  <a href="https://app.daily.dev/4msar"><img src="https://api.daily.dev/devcards/v2/1keky7q0Eb4OSngB6T3b1.png?type=wide&r=iq6" width="652" alt="Saiful Alam's Dev Card"/></a>
+  <img src="https://github-stats.msar.dev/api/top-langs?username=4msar&show_icons=true&locale=en&layout=compact" alt="4msar" />
+  <img src="https://github-stats.msar.dev/api?username=4msar&show_icons=true" />
 </div>
 
 
