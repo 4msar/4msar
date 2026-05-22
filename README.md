@@ -35,6 +35,6 @@
 <p align="center">
   You can support my contribution.<br/>
   <a href="https//support.msar.me" target="_blank" style="display: inline">
-   ![badge](https://shieldcn.dev/badge/Support-My%20Work-22c55e.svg?mode=light)
+    <img alt="badge" src="https://shieldcn.dev/badge/Support-My%20Work-22c55e.svg?mode=light">
   </a>
 </p>
