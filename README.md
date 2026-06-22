@@ -34,7 +34,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
   You can support my contribution.<br/><br/>
-  <a href="https://support.msar.me" target="_blank" style="display: inline">
+  <a href="https://pay.msar.me/buy-me-a-coffee" target="_blank" style="display: inline">
     <img alt="badge" src="https://shieldcn.dev/badge/Support%20My%20Work-FFD21E.svg?logo=ri:GiReceiveMoney">
   </a>
 </p>
